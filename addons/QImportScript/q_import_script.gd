@@ -5,6 +5,7 @@ extends EditorScenePostImport
 ## Made by Qualia with <3
 ## Source: https://github.com/Qualia765/q-import-script/blob/mane/addons/QImportScript/q_import_script.gd
 ## Copyright Qualia Farrell 2026 under MIT License https://mit-license.org/
+## Video Tutorial: https://youtu.be/CDOM5uRILeE
 
 ## === Objectives ===
 ## -> Change a property when an object is imported into godot automatically based on custom property in blender
