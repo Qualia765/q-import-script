@@ -3,7 +3,7 @@ extends EditorScenePostImport
 
 ## Qualia's Basic Multipurpose Import Script
 ## Made by Qualia with <3
-## Source: https://gist.github.com/Qualia765/92c931f9a03e5f9142e63667605ddea3
+## Source: https://github.com/Qualia765/q-import-script/blob/mane/addons/QImportScript/q_import_script.gd
 ## Copyright Qualia Farrell 2026 under MIT License https://mit-license.org/
 
 ## === Objectives ===
